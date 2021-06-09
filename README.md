@@ -23,6 +23,8 @@ This API is deployed through Cloud Run.
 
 Go to Cloud Run in GCP and click _**blood-donor-api**_ then copy the URL. This URL will be used to access the API and will be reffered as [url].
 
+_**Rule of Thumb**_: except [url], change everything that have [] (bracket) with the appropriate value. 
+
 ### POST Request
 To add data to Firestore use:
 [url]/organizations/
