@@ -29,14 +29,14 @@ _**Rule of Thumb**_: except **[url]**, change everything that have **[]** (brack
 To add data to Firestore use: **[url]/organizations/**
 
 POST request in json and must contain:
-{
+**{
     "code": "[organization code]",
     "organizationName": "[organization name]",
     "subDistrict": "[sub-district]",
     "contact": "[contact]",
     "bloodType": "[blood type]",
     "supply": [supply amount]
-}
+}**
 
 ### GET Request
 1. To fetch all data in collection use: **[url]/organizations/**
@@ -63,11 +63,11 @@ To update data use: **[url]/organizations/[organization code]/[blood type]**
   * change [blood type] with target blood type
 
 PUT Request in json and must conain:
-{
+**{
     "code": "[organization code]",
     "organizationName": "[organization name]",
     "subDistrict": "[sub-district]",
     "contact": "[contact]",
     "bloodType": "[blood type]",
     "supply": [supply amount]
-}
+}**
