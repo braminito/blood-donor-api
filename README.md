@@ -71,3 +71,8 @@ PUT Request in json and must conain:
     "bloodType": "[blood type]",
     "supply": [supply amount]
 }**
+
+## Reference
+
+https://www.youtube.com/watch?v=M53VqNtioxE&t=371s
+https://stackoverflow.com/questions/52100103/getting-all-documents-from-one-collection-in-firestore
