@@ -74,5 +74,5 @@ PUT Request in json and must conain:
 
 ## Reference
 
-https://www.youtube.com/watch?v=M53VqNtioxE&t=371s
-https://stackoverflow.com/questions/52100103/getting-all-documents-from-one-collection-in-firestore
+1. https://www.youtube.com/watch?v=M53VqNtioxE&t=371s
+2. https://stackoverflow.com/questions/52100103/getting-all-documents-from-one-collection-in-firestore
